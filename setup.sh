@@ -326,3 +326,8 @@ echo "  openclaw gateway --force"
 echo ""
 echo -e "${GREEN}Everything is ready! Both services will auto-start on reboot.${NC}"
 echo ""
+
+
+
+chmod +x install-skills.sh
+./install-skills.sh
